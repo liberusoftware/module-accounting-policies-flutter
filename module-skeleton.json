@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-policies-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-policies",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_policies_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/accounting-policies.md",
+  "presentationPlan": "projects/accounting/flutter/accounting-policies.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
